@@ -2,7 +2,7 @@
 
 ## Projeto 1 - Fonte de tensão ajustável
 
-Projeto de uma Fonte de Tensão ajustável entre 3V a 12V com capacidade de 100mA.
+Projeto de uma Fonte de Tensão ajustável entre 3V e 12V com capacidade de 100mA.
 
 ## Projeto 2 - Simples servidor intemediário utilizando uma ESP32
 
