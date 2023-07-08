@@ -39,7 +39,7 @@ Saída: Corrente contínua de no máximo 100mA e tensão entre 3V e 12V.
 
 ## Imagem do circuito
 
-`IMAGEM`
+<img src="./falstad.png">
 
 #### OBS: resistor de 5k5 trocado por um de 3k3 na prática.
 
@@ -47,15 +47,15 @@ Saída: Corrente contínua de no máximo 100mA e tensão entre 3V e 12V.
 
 ## Cálculo do capacitor
 
-`IMAGEM`
+<img src="./capacitor.jpg">
 
 ## Imagem do Esquemático da PCB
 
-`IMAGEM`
+<img src="./esquematicoPCB.png">
 
 ## Imagem da PCB
 
-`IMAGEM`
+<img src="./boardPCB.png">
 
 ## Fotos e vídeo do circuito funcionando
 
