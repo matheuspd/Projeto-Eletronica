@@ -57,10 +57,10 @@ Saída: Corrente contínua de no máximo 100mA e tensão entre 3V e 12V.
 
 <img src="./boardPCB.png">
 
-## Fotos e vídeo do circuito funcionando
+## Fotos do circuito funcionando
 
 <img src="./fonte1.jpg" width=50% height=50%>
 <img src="./fonte3.jpg" width=50% height=50%>
 <img src="./fonte2.jpg" width=50% height=50%>
 
-`VIDEO`
+### [Vídeo explicativo](https://drive.google.com/file/d/1FKkSimYk40UsKTF8a-7zYxndGOwowRUW/view?usp=sharing)
