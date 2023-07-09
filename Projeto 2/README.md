@@ -14,6 +14,9 @@ Como a ESP32 serve apenas como um servidor intermediário, basta ela estar ligad
 
 ## Imagens e vídeo do projeto funcionando
 
-`IMAGEM`
+<img src="./img1.png">
+<img src="./img2.png">
+<img src="./img3.png">
+<img src="./img4.png">
 
-`VIDEO`
+### [Vídeo Explicativo](https://drive.google.com/file/d/1HYccISPhW7fum5ByYera9B7LWqzPdw0-/view?usp=sharing)
